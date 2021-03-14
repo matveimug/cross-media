@@ -412,7 +412,15 @@ Ristmeedia (inglise keeles crossmedia, üsna sarnase tähendusega on ka mõiste 
 
 <f-video src="https://www.youtube.com/watch?v=94fPVqJqBGA&ab_channel=WarnerBros." />
 
-| chapter: Art of the title
-| section: slaidid
+---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRA4-bifqfZtywo3JDWxelz4TwUboskMC-AGXYLUIsgrHt4y93A0CNKMGYLWkl8bvRdv6Dq4oWfbhXg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+| chapter: Lisamaterjal
+| section: Art of the title - filmitiitrid
+
+<iframe style="width: 100%; height: 100%" src="https://docs.google.com/presentation/d/e/2PACX-1vRA4-bifqfZtywo3JDWxelz4TwUboskMC-AGXYLUIsgrHt4y93A0CNKMGYLWkl8bvRdv6Dq4oWfbhXg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+| section: praktiline töö - eksamiülesanne 04.03.21
+
+<iframe style="width: 100%; height: 100%" src="https://docs.google.com/document/d/e/2PACX-1vTJxRfI_bRRQNGS3DPSFNV34dVG8s0YMyNq9KhgZrVvfdqj-7cHXqY9Kh2yZLPVFoWU38LZIU6myJqw/pub?embedded=true" frameborder="0" width="960" height="749"></iframe>
