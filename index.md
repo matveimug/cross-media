@@ -440,6 +440,7 @@ Esitamiseks palun luua vastav kaust Teams-i, Cross-meedia kanali alla.
 
 Materjalid:
 
-1. <a href="/assets/kg-logod.ai">Logod</a>
-2. <a href="/assets/kg-fotod.zip">Fotod</a>
+1. <a href="/assets/kg-logod.ai">KG Logod</a>
+2. <a href="/assets/kg-fotod.zip">KG Fotod</a>
+3. <a href="https://www.google.com/url?q=https://reklaam.postimeesgrupp.ee/tehnilised-tingimused/&sa=D&source=editors&ust=1615747753736000&usg=AOvVaw3-shJxLkWjJcAd76hHbPPi">Postimehe lehereklaami tehnilised tingimused</a>
 
