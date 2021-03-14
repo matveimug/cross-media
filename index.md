@@ -411,3 +411,8 @@ Ristmeedia (inglise keeles crossmedia, üsna sarnase tähendusega on ka mõiste 
 | section: - Animatrix
 
 <f-video src="https://www.youtube.com/watch?v=94fPVqJqBGA&ab_channel=WarnerBros." />
+
+| chapter: Art of the title
+| section: slaidid
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRA4-bifqfZtywo3JDWxelz4TwUboskMC-AGXYLUIsgrHt4y93A0CNKMGYLWkl8bvRdv6Dq4oWfbhXg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
