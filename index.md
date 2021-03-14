@@ -422,5 +422,24 @@ Ristmeedia (inglise keeles crossmedia, üsna sarnase tähendusega on ka mõiste 
 ---
 
 | section: praktiline töö - eksamiülesanne 04.03.21
+| 1 2
 
 <iframe style="width: 100%; height: 100%" src="https://docs.google.com/document/d/e/2PACX-1vTJxRfI_bRRQNGS3DPSFNV34dVG8s0YMyNq9KhgZrVvfdqj-7cHXqY9Kh2yZLPVFoWU38LZIU6myJqw/pub?embedded=true" frameborder="0" width="960" height="749"></iframe>
+
+-
+
+#### Praktiline töö: Kujundusgraafiku Kutseeksami (4.Tase) I Osa: Individuaalne Komplekseksam
+
+Esitamiseks palun luua vastav kaust Teams-i, Cross-meedia kanali alla.
+
+<blockquote>
+
+**NB!** Harjutusülesande vormis palun jätta hinnapäringud, kaaskirjad, erialane test jms tegemata!
+
+</blockquote> 
+
+Materjalid:
+
+1. <a href="/assets/kg-logod.ai">Logod</a>
+2. <a href="/assets/kg-fotod.zip">Fotod</a>
+
