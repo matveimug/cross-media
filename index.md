@@ -443,4 +443,5 @@ Materjalid:
 1. <a href="/assets/kg-logod.ai">KG Logod</a>
 2. <a href="/assets/kg-fotod.zip">KG Fotod</a>
 3. <a href="https://www.google.com/url?q=https://reklaam.postimeesgrupp.ee/tehnilised-tingimused/&sa=D&source=editors&ust=1615747753736000&usg=AOvVaw3-shJxLkWjJcAd76hHbPPi">Postimehe lehereklaami tehnilised tingimused</a>
+3. <a href="https://kadi.ee/wp-content/uploads/2020/06/SH_veeb_hinnakiri_052020.pdf">Saarte Hääle veebireklaami hinnakiri ja tehnilised tingimused</a>
 
